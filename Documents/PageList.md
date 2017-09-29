@@ -4,14 +4,13 @@
 
 ## Manage
 * Member
- * MemberAdd
-   * MemberAddConfirmation
- * MemberEdit
-   * MemberEditConfirmation
- * MemberDelete
-   * MemberDeleteConfimation
- * MemberInfo
-
+  * MemberAdd
+    * MemberAddConfirmation
+  * MemberEdit
+    * MemberEditConfirmation
+  * MemberDelete
+    * MemberDeleteConfimation
+  * MemberInfo
 
 * Item
   * ItemAdd
