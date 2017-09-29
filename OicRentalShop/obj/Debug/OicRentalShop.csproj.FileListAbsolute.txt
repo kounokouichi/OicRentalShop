@@ -1,0 +1,1 @@
+D:\C#\OicRentalShop\OicRentalShop\bin\Debug\OicRentalShop.exe.config
