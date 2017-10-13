@@ -2,24 +2,29 @@
 
 ## Login
 
+## Top
+
 ## Manage
+ManageHome
 * Member
-  * MemberAdd
-    * MemberAddConfirmation
-  * MemberEdit
-    * MemberEditConfirmation
-  * MemberDelete
-    * MemberDeleteConfimation
-  * MemberInfo
+  * MemberList
+    * MemberAdd
+      * MemberAddConfirmation
+    * MemberEdit
+      * MemberEditConfirmation
+    * MemberDelete
+      * MemberDeleteConfimation
+    * MemberInfo
 
 * Item
-  * ItemAdd
-    * ItemAddConfimation
-  * ItemEdit
-    * ItemEditConfimation
-  * ItemDelete
-    * ItemDeleteConfimation
-  * ItemInfo
+  * ItemList
+    * ItemAdd
+      * ItemAddConfimation
+    * ItemEdit
+      * ItemEditConfimation
+    * ItemDelete
+      * ItemDeleteConfimation
+    * ItemInfo
 
 
 * Staff
