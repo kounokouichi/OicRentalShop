@@ -1,2 +1,0 @@
-D:\C#\OicRentalShop\OicRentalShop\bin\Debug\OicRentalShop.exe.config
-\\stusrv\システム開発演習\NM2\OicRentalShop\OicRentalShop\bin\Debug\OicRentalShop.exe.config
